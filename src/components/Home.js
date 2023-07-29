@@ -16,7 +16,7 @@ const Home = () => {
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I’m a full-stack developer specializing in building (and occasionally
-          designing) exceptional digital experiences. Currently, I’m focused on
+          designing) exceptional digital experiences.I Am Graduated From <strong>North South University</strong>. Currently, I’m focused on
           building responsive full-stack web applications.
         </p>
         <div>
